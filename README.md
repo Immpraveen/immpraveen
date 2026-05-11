@@ -24,6 +24,8 @@ I’m passionate about building useful projects, learning modern technologies, a
 - Contributing to projects and growing as a developer
 
 ### 📫 Connect With Me
+Replace these with your real details using markdown link format, for example: `[Your Name](https://your-link.com)`
+
 - LinkedIn: [Add your LinkedIn profile]
 - Email: [Add your professional email]
 - Portfolio: [Add your portfolio website]

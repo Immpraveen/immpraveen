@@ -12,9 +12,10 @@
 - 🎯 Exploring tools like AI agents, RAG systems, VectorDB integrations, and MCP servers
 
 ### 🛠️ Tech Stack
-- Languages: `Java`, `Python`, `JavaScript`
-- Frameworks & Tools: `Git`, `GitHub`, `VS Code`
-- Currently Exploring: `Add your favorite tools or frameworks here`
+- Languages: `Java`, `Python`, `JavaScript`, `Shell Scripting`
+- Frameworks & Tools: `Spring Boot`, `Microservices`, `GitHub`, `Kafka`, `Docker`, `Kubernetes`
+- Databases & Cloud: `MySQL`, `Postgres`, `MongoDB`, `Redis`, `DynamoDB`, `AWS`, `Azure`
+- Currently exploring: AI agents and token-usage optimization for better efficiency
 
 ### 📌 Current Focus
 - Building projects to improve practical development skills
@@ -22,9 +23,9 @@
 - Contributing to open-source projects and collaborating with other developers
 
 ### 📫 Connect With Me
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Email](mailto:yourname@example.com)
-- [Portfolio](https://your-portfolio.com)
+- [LinkedIn](https://linkedin.com/in/immpraveen)
+- [Email](mailto:praveenkumar037k@gmail.com)
+- [X (formerly Twitter)](https://x.com/immpraveen)
 
 ### ✨ Current Milestones
 - Delivering clean, consistent end-to-end full-stack projects

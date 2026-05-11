@@ -1,36 +1,34 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3d93e5ad-b7a4-4adb-9c12-5e112d59f129" alt="Praveen profile banner" width="100%" />
-</p>
+## Hey there, I'm Praveen 👋
 
-## Hi there, I'm Praveen 👋
-
-Welcome to my GitHub profile!  
-I’m passionate about building useful projects, learning modern technologies, and improving my development skills every day.
+- I’m a problem solver by nature and a Software Engineer by profession.
+- I enjoy building robust, scalable, and distributed systems.
+- Learning new technologies and exploring places are two of my favorite hobbies.
+- I’m keeping up with the rapidly evolving tech landscape.
 
 ### 🚀 About Me
-- 💻 Interested in software development and problem solving
-- 🌱 Currently learning and exploring new tools, frameworks, and best practices
-- 🤝 Open to collaboration on interesting and meaningful projects
-- 🎯 Focused on continuous learning and clean, impactful work
+- 💻 Software Engineer with 3+ years of experience
+- 🌱 Building systems using Java, Spring Boot, Kafka, Redis, Postgres, and React.js
+- 🤝 Deploying systems with Docker, Kubernetes, GitLab CI/CD pipelines, and AWS
+- 🎯 Exploring tools like AI agents, RAG systems, VectorDB integrations, and MCP servers
 
 ### 🛠️ Tech Stack
 - Languages: `Java`, `Python`, `JavaScript`
 - Frameworks & Tools: `Git`, `GitHub`, `VS Code`
-- Currently Exploring: `Open Source`, `Modern Development Tools`, `New Technologies`
+- Currently Exploring: `Add your favorite tools or frameworks here`
 
 ### 📌 Current Focus
-- Building projects that improve practical skills
-- Strengthening problem-solving and development workflow
-- Contributing to projects and growing as a developer
+- Building projects to improve practical development skills
+- Strengthening problem-solving abilities and development workflows
+- Contributing to open-source projects and collaborating with other developers
 
 ### 📫 Connect With Me
-Replace these with your real details using markdown link format, for example: `[Your Name](https://your-link.com)`
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Email](mailto:yourname@example.com)
+- [Portfolio](https://your-portfolio.com)
 
-- LinkedIn: [Add your LinkedIn profile]
-- Email: [Add your professional email]
-- Portfolio: [Add your portfolio website]
-
-### ✨ Profile Highlights
-- Clean and consistent project work
-- Interest in learning, collaboration, and growth
-- Always working toward better code and better solutions
+### ✨ Current Milestones
+- Delivering clean, consistent end-to-end full-stack projects
+- Keeping up with the latest technology developments
+- Contributing to open-source projects and participating in hackathons
+- Writing clean, maintainable code and delivering better solutions
+- Gaining deeper knowledge of AI, ML, and their behind-the-scenes implementations

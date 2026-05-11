@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hey there, I'm Praveen 👋
 
-<!--
-**Immpraveen/immpraveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m a problem solver by nature and a Software Engineer by profession.
+- I enjoy building robust, scalable, and distributed systems.
+- Learning new technologies and exploring places are two of my favorite hobbies.
+- I’m keeping up with the rapidly evolving tech landscape.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 Software Engineer with 3+ years of experience
+- 🌱 Building systems using Java, Spring Boot, Kafka, Redis, Postgres, and React.js
+- 🤝 Deploying systems with Docker, Kubernetes, GitLab CI/CD pipelines, and AWS
+- 🎯 Exploring tools like AI agents, RAG systems, VectorDB integrations, and MCP servers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- Languages: `Java`, `Python`, `JavaScript`
+- Frameworks & Tools: `Git`, `GitHub`, `VS Code`
+- Currently Exploring: `Add your favorite tools or frameworks here`
+
+### 📌 Current Focus
+- Building projects to improve practical development skills
+- Strengthening problem-solving abilities and development workflows
+- Contributing to open-source projects and collaborating with other developers
+
+### 📫 Connect With Me
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Email](mailto:yourname@example.com)
+- [Portfolio](https://your-portfolio.com)
+
+### ✨ Current Milestones
+- Delivering clean, consistent end-to-end full-stack projects
+- Keeping up with the latest technology developments
+- Contributing to open-source projects and participating in hackathons
+- Writing clean, maintainable code and delivering better solutions
+- Gaining deeper knowledge of AI, ML, and their behind-the-scenes implementations

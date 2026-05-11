@@ -16,7 +16,7 @@ I’m passionate about building useful projects, learning modern technologies, a
 ### 🛠️ Tech Stack
 - Languages: `Java`, `Python`, `JavaScript`
 - Frameworks & Tools: `Git`, `GitHub`, `VS Code`
-- Currently Exploring: `Add your favorite tools or frameworks here`
+- Currently Exploring: `Open Source`, `Modern Development Tools`, `New Technologies`
 
 ### 📌 Current Focus
 - Building projects that improve practical skills
@@ -24,9 +24,9 @@ I’m passionate about building useful projects, learning modern technologies, a
 - Contributing to projects and growing as a developer
 
 ### 📫 Connect With Me
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Email](mailto:yourname@example.com)
-- [Portfolio](https://your-portfolio.com)
+- LinkedIn: `Add your LinkedIn profile`
+- Email: `Add your professional email`
+- Portfolio: `Add your portfolio website`
 
 ### ✨ Profile Highlights
 - Clean and consistent project work

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3d93e5ad-b7a4-4adb-9c12-5e112d59f129" alt="Praveen profile banner" width="100%" />
+</p>
+
 ## Hi there, I'm Praveen 👋
 
 Welcome to my GitHub profile!  
@@ -10,9 +14,9 @@ I’m passionate about building useful projects, learning modern technologies, a
 - 🎯 Focused on continuous learning and clean, impactful work
 
 ### 🛠️ Tech Stack
-- Languages: `Add your languages here`
-- Frameworks: `Add frameworks/tools here`
-- Tools: `Git`, `GitHub`, `VS Code`, `Add more`
+- Languages: `Java`, `Python`, `JavaScript`
+- Frameworks & Tools: `Git`, `GitHub`, `VS Code`
+- Currently Exploring: `Add your favorite tools or frameworks here`
 
 ### 📌 Current Focus
 - Building projects that improve practical skills
@@ -20,9 +24,9 @@ I’m passionate about building useful projects, learning modern technologies, a
 - Contributing to projects and growing as a developer
 
 ### 📫 Connect With Me
-- LinkedIn: `Add your LinkedIn link`
-- Email: `Add your email`
-- Portfolio: `Add your portfolio link`
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Email](mailto:yourname@example.com)
+- [Portfolio](https://your-portfolio.com)
 
 ### ✨ Profile Highlights
 - Clean and consistent project work

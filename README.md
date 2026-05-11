@@ -24,9 +24,9 @@ I’m passionate about building useful projects, learning modern technologies, a
 - Contributing to projects and growing as a developer
 
 ### 📫 Connect With Me
-- LinkedIn: `Add your LinkedIn profile`
-- Email: `Add your professional email`
-- Portfolio: `Add your portfolio website`
+- LinkedIn: [Add your LinkedIn profile]
+- Email: [Add your professional email]
+- Portfolio: [Add your portfolio website]
 
 ### ✨ Profile Highlights
 - Clean and consistent project work

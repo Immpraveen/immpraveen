@@ -3,7 +3,7 @@
 - I’m a problem solver by nature and a Software Engineer by profession.
 - I enjoy building robust, scalable, and distributed systems.
 - Learning new technologies and exploring places are two of my favorite hobbies.
-- I’m keeping up with the rapidly evolving tech landscape.
+- I’m trying to keeping up with the rapidly evolving tech landscape.
 
 ### 🚀 About Me
 - 💻 Software Engineer with 3+ years of experience
